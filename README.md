@@ -1,4 +1,5 @@
 # Unity-Max
+<<<<<<< HEAD
 1. Install this library
     ## Use this library
     https://github.com/keijiro/OscJack
@@ -7,3 +8,6 @@
 2. Reference Test
     ClientTest.cs
     ServerTest.cs
+=======
+## test push
+>>>>>>> 414e37bf04bca2051473791508bee9b2c39d627d
